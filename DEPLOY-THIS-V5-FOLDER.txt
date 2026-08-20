@@ -1,0 +1,19 @@
+PESKY PENGUIN - FINAL V5 VERCEL DEPLOYMENT
+
+This package targets: https://pesky-peguin.vercel.app/
+
+1. Extract the ZIP.
+2. Deploy every item inside the extracted folder to the existing
+   pesky-peguin Vercel project.
+3. Framework preset: Other.
+4. Build Command: blank.
+5. Output Directory: blank.
+6. After deployment finishes, open Deployments in Vercel and confirm this new
+   deployment is marked Production. If not, choose Promote to Production.
+
+Verification after production deployment:
+- Page source must contain:
+  https://pesky-peguin.vercel.app/og-logo-safe.png?v=5
+- That image must open directly in a browser.
+
+No environment variables are needed.
