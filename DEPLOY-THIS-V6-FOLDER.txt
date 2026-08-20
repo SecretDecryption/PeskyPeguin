@@ -1,0 +1,20 @@
+PESKY PENGUIN - FINAL V6 VERCEL DEPLOYMENT
+
+This package targets: https://pesky-peguin.vercel.app/
+
+This version keeps the working logo sharing card and replaces the random square
+browser icon with the Pesky Penguin mascot logo.
+
+1. Extract the ZIP.
+2. Deploy every item inside the extracted folder to the existing
+   pesky-peguin Vercel project.
+3. Framework preset: Other.
+4. Build Command: blank.
+5. Output Directory: blank.
+6. Confirm the new deployment is marked Production. If not, choose
+   Promote to Production.
+
+Safari caches favicons aggressively. After production deployment, close the old
+tab and open https://pesky-peguin.vercel.app/?favicon=v6 in a new tab.
+
+No environment variables are needed.
