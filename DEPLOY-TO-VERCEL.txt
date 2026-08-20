@@ -1,0 +1,10 @@
+PESKY PENGUIN - VERCEL UPLOAD
+
+1. Extract the ZIP first.
+2. Upload or deploy the extracted folder, not the ZIP file itself.
+3. If Vercel asks for a framework, choose Other.
+4. Leave Build Command and Output Directory blank.
+5. Deploy.
+
+The root of this folder contains index.html, so it is ready to serve directly.
+No environment variables are needed.
