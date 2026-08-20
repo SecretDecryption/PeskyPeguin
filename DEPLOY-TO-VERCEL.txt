@@ -4,7 +4,8 @@ PESKY PENGUIN - VERCEL UPLOAD
 2. Upload or deploy the entire extracted folder, not only index.html.
 3. If Vercel asks for a framework, choose Other.
 4. Leave Build Command and Output Directory blank.
-5. Deploy.
+5. Deploy to the pesky-penguin.vercel.app project.
 
-The sharing preview now uses a publicly reachable Pesky Penguin image with the
-truck logo and penguin. No environment variables are needed.
+The sharing preview uses the centered Pesky Penguin logo with wide safe margins
+so the artwork remains visible in square, portrait and landscape link cards.
+No environment variables are needed.
